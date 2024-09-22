@@ -8,4 +8,4 @@
 
 ## Projetos
 
-## Integrantes: <a>Daniel Baptista</a>, <a href="https://www.linkedin.com/in/fabiospindola/">Fabio Spindola</a>, <a href="https://br.linkedin.com/in/fabriciocnascimento">Fabricio Nascimento</a>, <a>Leonardo de Souza</a>
+## Integrantes: <a>Daniel Baptista</a>, <a>Fabio Spindola</a>, <a>Fabricio Nascimento</a>, <a>Leonardo de Souza</a>
