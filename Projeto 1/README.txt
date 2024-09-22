@@ -1,0 +1,1 @@
+Aplicativo que realiza o cálculo do Índice de Massa Corporal (IMC), com base no input de algumas informações como peso, altura e sexo, exibindo o resultado na tela.
