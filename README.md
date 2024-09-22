@@ -19,4 +19,7 @@
 </p>
 
 
-Primeiro projeto, Programação Mobile, Calculadora de IMC 📱.
+Daniel Baptista Acioli Vanderlei
+Fábio Oliveira Spíndola
+Fabrício Cândido do Nascimento
+Leonardo de Souza Mouzinho
