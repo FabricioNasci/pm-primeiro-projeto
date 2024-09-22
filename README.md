@@ -17,9 +17,3 @@
 <p align="center">
 <img src="https://gizmodo.uol.com.br/wp-content/blogs.dir/8/files/2019/08/android-10-google.jpg" alt="Logo NBA Informa" border="0">
 </p>
-
-
-Daniel Baptista Acioli Vanderlei
-Fábio Oliveira Spíndola
-Fabrício Cândido do Nascimento
-Leonardo de Souza Mouzinho
