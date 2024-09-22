@@ -9,9 +9,3 @@
 ## Projetos
 
 ## Integrantes: <a>Daniel Baptista</a>, <a href="https://www.linkedin.com/in/fabiospindola/">Fabio Spindola</a>, <a href="https://br.linkedin.com/in/fabriciocnascimento">Fabricio Nascimento</a>, <a>Leonardo de Souza</a>
-
-## Descrição
-
-<p align="center">
-<img src="https://gizmodo.uol.com.br/wp-content/blogs.dir/8/files/2019/08/android-10-google.jpg" alt="Logo NBA Informa" border="0">
-</p>
