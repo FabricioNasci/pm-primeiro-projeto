@@ -8,4 +8,4 @@
 
 ## Projetos
 
-## Integrantes: <a>Daniel Baptista</a>, <a>Fabio Spindola</a>, <a>Fabricio Nascimento</a>, <a>Leonardo de Souza</a>
+## Integrantes: <a>Daniel Baptista Acioli Vanderlei (23025608)</a>, <a>Fábio Oliveira Spíndola (22086131)</a>, <a>Fabrício Cândido do Nascimento (23025273)</a>, <a>Leonardo de Souza mouzinho (23025627)</a>
