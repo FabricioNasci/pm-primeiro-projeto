@@ -6,11 +6,9 @@
 
 # Programação Mobile
 
-## Primeiro Projeto
+## Projetos
 
 ## Integrantes: <a>Daniel Baptista</a>, <a href="https://www.linkedin.com/in/fabiospindola/">Fabio Spindola</a>, <a href="https://br.linkedin.com/in/fabriciocnascimento">Fabricio Nascimento</a>, <a>Leonardo de Souza</a>
-
-## Professores Orientadores: <a href="https://www.linkedin.com/in/francisco-escobar/">Francisco Escobar</a>, <a href="https://www.linkedin.com/in/jbuesso/">José Carlos Buesso Jr </a>
 
 ## Descrição
 
